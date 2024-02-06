@@ -1,10 +1,15 @@
 class pattern_15_c {
     public static void main(String arg[]) {
-        int i, j;
-        i = 2;
-        for (j = 5; j >= i; j--) {
-            System.out.print(j+" ");
-        }
 
+      for(int i = 9;i>=1;i-=2){
+        for (int j = 1; j <=5; j++) {
+            System.out.print(i + " ");
+         
+        }
+        System.out.println("");
+        }
+          
     }
+
+
 }
