@@ -9,9 +9,9 @@ class pattern_15_c {
           }
           k=k+2;
         System.out.println("");
-        }
-          
+        } 
     }
-
-
 }
+/*
+
+*/
